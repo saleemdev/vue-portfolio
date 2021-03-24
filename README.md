@@ -1,24 +1,13 @@
-# v_portfolio
+# My Portfolio
 
-## Project setup
 ```
-yarn install
-```
+Built on Vue JS and a Frappe, Python and MariaDB.
+``````
+## What is it?
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+````
+It is primarily my work area (for now) as I study SPAs using one of the most popular web framework.
+````
+## Roadmap
+`````
+TBD
